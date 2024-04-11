@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "value": "340.30",
+      "description": "T-Shirt Black/M",
+      "method": "credit_card",
+      "cardNumber": "3486",
+      "cardHolderName": "Fonsi Julian",
+      "cardExpirationDate": "04/28",
+      "cardCvv": "290",
+      "id": "KiV2szQ"
+    }
+  ],
+  "payables": [
+    {
+      "id": "1",
+      "status": "paid",
+      "create_date": "15/03/2020",
+      "subtotal": "200",
+      "discount": "4",
+      "total": "196"
+    },
+    {
+      "id": "2",
+      "status": "paid",
+      "create_date": "15/03/2020",
+      "subtotal": "100",
+      "discount": "2",
+      "total": "98"
+    },
+    {
+      "id": "3",
+      "status": "waiting_funds",
+      "create_date": "15/03/2020",
+      "subtotal": "100",
+      "discount": "2",
+      "total": "98"
+    }
+  ]
+}
